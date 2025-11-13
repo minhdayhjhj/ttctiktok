@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# Khang Tool Ultra Pro Max GUI - One File
-# Dev: Copilot nâng cấp cho Minh (Đồng Nai, VN)
-# Yêu cầu: Python 3.8+, pip install requests
-# Lưu ý: Sử dụng có trách nhiệm và tuân thủ điều khoản dịch vụ của nền tảng.
 
 import sys
 import os
@@ -770,3 +765,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
